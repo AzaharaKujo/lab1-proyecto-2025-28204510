@@ -4,7 +4,7 @@
   "description": "Jhoseanny Verushka Peraza Alvarado\r CI:28.204.510\r Correo: 1001.28204510.ucla@gmail.com\r Rol: Todos",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon /src/index.js"
+    "dev": "nodemon src/index.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +18,7 @@
     "url": "https://github.com/AzaharaKujo/lab1-proyecto-2025-28204510/issues"
   },
   "homepage": "https://github.com/AzaharaKujo/lab1-proyecto-2025-28204510#readme",
-  "dependencies": {
+  "devDependencies": {
     "express": "^5.1.0",
     "nodemon": "^3.1.11"
   }
