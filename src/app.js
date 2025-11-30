@@ -1,8 +1,4 @@
-const express = require('express');
-const config = require('./config');
+import dontev from "dotenv";
+dontev.config();
 
-const app = express();
-
-app.set('port', config.app.port)
-
-module.exports = app;
+console.log("puerto que usaremos:",process.env.API_PORT)

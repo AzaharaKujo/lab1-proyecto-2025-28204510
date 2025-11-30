@@ -13,7 +13,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
   "bugs": {
     "url": "https://github.com/AzaharaKujo/lab1-proyecto-2025-28204510/issues"
   },
@@ -21,5 +21,8 @@
   "devDependencies": {
     "express": "^5.1.0",
     "nodemon": "^3.1.11"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3"
   }
 }
