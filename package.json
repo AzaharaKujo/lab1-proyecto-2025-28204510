@@ -1,0 +1,21 @@
+{
+  "name": "lab1-proyecto-2025-28204510",
+  "version": "1.0.0",
+  "description": "Jhoseanny Verushka Peraza Alvarado\r CI:28.204.510\r Correo: 1001.28204510.ucla@gmail.com\r Rol: Todos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AzaharaKujo/lab1-proyecto-2025-28204510.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/AzaharaKujo/lab1-proyecto-2025-28204510/issues"
+  },
+  "homepage": "https://github.com/AzaharaKujo/lab1-proyecto-2025-28204510#readme"
+}
