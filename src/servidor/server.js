@@ -19,4 +19,7 @@ export class Servidor {
       res.send('Hello World')
     })
   }
+  middlewares =()=>{
+    
+  }
 }
