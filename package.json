@@ -4,7 +4,8 @@
   "description": "Jhoseanny Verushka Peraza Alvarado\r CI:28.204.510\r Correo: 1001.28204510.ucla@gmail.com\r Rol: Todos",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "start": "node ./src/app.js",
+    "dev": "nodemon ./src/app.js"
   },
   "repository": {
     "type": "git",
